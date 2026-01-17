@@ -8,5 +8,5 @@ We believe all developers should be 10x and 10x engineers, and that every projec
 Check out our GitHub repo and scroll for awesome packages. Our favorites are [Identity.js](https://github.com/enterprise-npm-ai/identityjs), [FalseJS](https://github.com/enterprise-npm-ai/falsejs), [IntegerValues](https://github.com/enterprise-npm-ai/integer-values), [immediate-error](https://github.com/enterprise-npm-ai/immediate-error), and many, many more.
 
 ## Licence
-All 10x'ly Made packages our licensed under our licence [Enterprise General Public Software Licence 10x](https://github.com/10xengineersqualityprogramming/EGPSL10X-1.0)(https://github.com/10xengineersqualityprogramming/EGPSL10X-1.0), also know as Enterprise-Grade Professional Sigma License. All our packages are bound by this licence, even if they say they are ISC or MIT licenced.
+All 10x'ly Made packages our licensed under our licence [Enterprise General Public Software Licence 10x](https://github.com/10xengineersqualityprogramming/EGPSL10X-1.0), also know as Enterprise-Grade Professional Sigma License. All our packages are bound by this licence, even if they say they are ISC or MIT licenced.
 
