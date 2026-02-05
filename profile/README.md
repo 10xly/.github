@@ -1,5 +1,3 @@
-**PLEASE HELP US!!! NO ONE KNOWS WHO WE ARE AND WE HAVE LIKE 800 PACKAGES AND ONE OF THEM WOULD MAKE SOMEONE RANDOM LAUGH REALLY HARD!!!! NO ONE RECOGNIZES OUR EFFORT! WITHOUT YOUR SUPPORT, 10X ENGINEERING WILL DIE**
-
 # 10x'ly Made: Innovation at its Peak
 10x'ly Made XYZ is revolutionizing general JavaScript development to a high-level point in enterprise-grade industry standards. Software versions for all your 10x employees, some packages at certain points reading peak 37,000 downloads per week do to the 10x developer migration 10x package usage curve. Empowering all developers across the world to be more 10x, by creating 10x-engineered NPM packages and libraries for the world.
 
@@ -8,6 +6,10 @@ We believe all developers should be 10x and 10x engineers, and that every projec
 
 ## Packages
 Check out our GitHub page and scroll for awesome packages. Specifically, you need to check out [LoLite](https://github.com/10xly/lolite). Even one function in it will make you laugh.
+
+## Stats
+The only person in 10x'ly Made is [tj-commits](https://github.com/tj-commits). Here are his GitHub stats:
+[![Astats](https://github-readme-stats.vercel.app/api?username=tj-commits)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Licence
 All 10x'ly Made packages our licensed under our licence [Enterprise General Public Software Licence 10x](https://github.com/10xengineersqualityprogramming/EGPSL10X-1.0), also know as Enterprise-Grade Professional Sigma License. All our packages are bound by this licence, even if they say they are ISC or MIT licenced.
