@@ -1,3 +1,5 @@
+**PLEASE HELP US!!! NO ONE KNOWS WHO WE ARE AND WE HAVE LIKE 800 PACKAGES AND ONE OF THEM WOULD MAKE SOMEONE RANDOM LAUGH REALLY HARD!!!! NO ONE RECOGNIZES OUR EFFORT! WITHOUT YOUR SUPPORT, 10X ENGINEERING WILL DIE**
+
 # 10x'ly Made: Innovation at its Peak
 10x'ly Made XYZ is revolutionizing general JavaScript development to a high-level point in enterprise-grade industry standards. Software versions for all your 10x employees, some packages at certain points reading peak 37,000 downloads per week do to the 10x developer migration 10x package usage curve. Empowering all developers across the world to be more 10x, by creating 10x-engineered NPM packages and libraries for the world.
 
