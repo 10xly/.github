@@ -12,7 +12,7 @@ The only person in 10x'ly Made is [tj-commits](https://github.com/tj-commits). H
 [![Astats](https://github-readme-stats.vercel.app/api?username=tj-commits)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Licence
-All 10x'ly Made packages our licensed under our licence [Enterprise General Public Software Licence 10x](https://github.com/10xengineersqualityprogramming/EGPSL10X-1.0), also know as Enterprise-Grade Professional Sigma License. All our packages are bound by this licence, even if they say they are ISC or MIT licenced.
+All 10x'ly Made packages our licensed under our licence [Enterprise General Public Software Licence 10x](https://github.com/10xengineersqualityprogramming/EGPSL10X-1.0), also know as Enterprise-Grade Professional Sigma License. All our packages are bound by this licence, even if they say they are ISC or MIT licenced. They are also all under [Lolite's Code Of Conduct](https://github.com/enterprise-npm-ai/lolite/tree/main/CODE_OF_CONDUCT.md).
 
 <details>
   <summary> See Our Mission </summary>
