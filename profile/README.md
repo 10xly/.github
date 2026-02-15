@@ -10,3 +10,6 @@ Check out our GitHub page and scroll for awesome packages. On NPM we have over 7
 
 ## Licence
 All 10x'ly Made packages our licensed under our licence [Enterprise General Public Software Licence 10x](https://github.com/10xengineersqualityprogramming/EGPSL10X-1.0), also know as Enterprise-Grade Professional Sigma License. All our packages are bound by this licence, even if they say they are ISC or MIT licenced. They are also all under [Lolite's Code Of Conduct](https://github.com/enterprise-npm-ai/lolite/tree/main/CODE_OF_CONDUCT.md).
+
+## Other organizations
+[is-unknown](https://github.com/is-unknown) for the is-unknown validation suite
