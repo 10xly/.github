@@ -12,5 +12,5 @@ Check out our GitHub page and scroll for awesome packages. On NPM we have over 7
 For legal information, such as licence and code of conduct, see [github.com/10xly/legal](https://github.com/10xly/legal). 
 
 ## Other organizations
-[is-unknown](https://github.com/is-unknown) for the is-unknown validation suite
-[frosted-javascript](https://github.com/frosted-javascript) for ponyfills
+- [is-unknown](https://github.com/is-unknown) for the is-unknown validation suite
+- [frosted-javascript](https://github.com/frosted-javascript) for ponyfills
