@@ -1,3 +1,5 @@
+For newcomers, just check out [FalseJS](https://github.com/10xly/FalseJS/blob/main/index.js)
+
 # 10x'ly Made: Innovation at its Peak
 10x'ly Made XYZ is revolutionizing general JavaScript development to a high-level point in enterprise-grade industry standards. Software versions for all your 10x employees, some packages at certain points reading peak 37,000 downloads per week. Empowering all developers across the world to be more 10x, by creating 10x-engineered NPM packages and libraries for the world.
 
