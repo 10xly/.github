@@ -3,7 +3,7 @@ name: smoke
 on: [push]
 
 jobs:
-  nothing:
+  smoke:
     runs-on: ubuntu-latest
     steps:
       - name: pass
