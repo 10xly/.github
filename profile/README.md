@@ -3,6 +3,7 @@ This is why there are no flying cars
 
 ## About us
 Look at one of the pinned repos.
+If you want proof of why the earth is dying, [read this](https://github.com/10xly/identityjs/blob/main/BUG-HISTORY.md)
 
 ## Legal
 For legal information, such as licence and code of conduct, see [github.com/10xly/legal](https://github.com/10xly/legal). 
